@@ -1,10 +1,25 @@
-cff-version: 1
-message: "If you use this software, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'https://github.com/panosgjuras/Psafe'
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
-- family-names: "Tzouras"
-  given-names: "Panagiotis"
-  orcid: "https://orcid.org/0000-0001-7944-9094"
-title: “The MATSim Psafe Module”
+  - given-names: Panagiotis
+    family-names: Tzouras
+    email: ptzouras@mail.ntua.gr
+    affiliation: National Technical University of Athens
+    orcid: 'https://orcid.org/0000-0001-7944-9094'
+    name-particle: G.
+identifiers:
+  - type: url
+    value: 'https://github.com/panosgjuras/Psafe'
+keywords:
+  - simulation
+  - agent-based
+  - transportation planning
+  - matsim
+license: MIT
 version: 0.0.1
-date-released: 2024-10-26
-url: "https://github.com/panosgjuras/Psafe"
+date-released: '2024-10-24'
