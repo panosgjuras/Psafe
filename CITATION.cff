@@ -1,10 +1,10 @@
 cff-version: 1
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: “Tzouras”
-  given-names: “Panagiotis”
+- family-names: "Tzouras"
+  given-names: "Panagiotis"
   orcid: "https://orcid.org/0000-0001-7944-9094"
 title: “The MATSim Psafe Module”
 version: 0.0.1
 date-released: 2024-10-26
-url: "https://github.com/github-linguist/linguist"
+url: "https://github.com/panosgjuras/Psafe"
